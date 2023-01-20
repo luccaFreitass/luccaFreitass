@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luccafreitas)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucca.freitass/)
 
-![luccaFreitass GitHub stats](https://github-readme-stats.vercel.app/api?username=luccaFreitass&show_icons=true&theme=radical)
+![luccaFreitass GitHub stats](https://github-readme-stats.vercel.app/api?username=luccaFreitass&count_private=true&theme=dracula)
 
 ## Recursos que eu mais ultilizo 
 <div style="display: inline_block"><br/>
@@ -20,4 +20,3 @@
 </div>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccaFreitass&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
