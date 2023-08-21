@@ -3,14 +3,14 @@
 <img width="480" height="272" src= "https://johto.legiaodosherois.com.br/wp-content/uploads/2022/02/legiao_cAB5VJkQYOFz.jpg" />
 </div>
 
-### Prazer eu sou o Lucca De Freitas, sou apaixonado por tecnologia e atualmente estou cursando Sistemas de informação na FIAP. Meu objetivo é  aprofundar cada vez mais meu conhecimento na programação 😊
+### Nice to meet you,I'm Lucca De Freitas, I'm passionate about technology and I'm currently studying Information Systems at FIAP. My goal is to deepen my knowledge in programming more and more. 😊
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luccafreitas)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucca.freitass/)
 
 ![luccaFreitass GitHub stats](https://github-readme-stats.vercel.app/api?username=luccaFreitass&count_private=true&theme=dracula)
 
-## Recursos que eu mais ultilizo 
+## Resources I use the most
 <div style="display: inline_block"><br/>
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
