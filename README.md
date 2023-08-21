@@ -3,7 +3,7 @@
 <img width="480" height="272" src= "https://johto.legiaodosherois.com.br/wp-content/uploads/2022/02/legiao_cAB5VJkQYOFz.jpg" />
 </div>
 
-### Nice to meet you,I'm Lucca De Freitas, I'm passionate about technology and I'm currently studying Information Systems at FIAP. My goal is to deepen my knowledge in programming more and more. 😊
+### Nice to meet you, I'm Lucca De Freitas, I'm passionate about technology and I'm currently studying Information Systems at FIAP. My goal is to deepen my knowledge in programming more and more. 😊
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luccafreitas)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucca.freitass/)
